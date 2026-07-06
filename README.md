@@ -1,46 +1,52 @@
 # Personal Portfolio Website
 
-This is my personal portfolio website showcasing my projects, skills, and experience as a web developer.
+This is my personal portfolio website showcasing my projects, technical skills, and experience as a Junior Full-Stack Web Developer.
 
-## Live Demo
+## 🌐 Live Demo
 
 🔗 https://hussainjamil24.github.io/Hussain_Jamil_Portfolio/
 
 ## 📌 About the Project
 
-A fully responsive portfolio website designed to present my work, technical skills, and contact information in a clean and user-friendly interface.
+A fully responsive portfolio website designed to showcase my web development projects, technical skills, and professional background. The portfolio highlights both frontend and full-stack applications, providing visitors with access to live demos, GitHub repositories, and my resume.
 
-## Built With
+## 🛠️ Built With
 
-* HTML5
-* CSS3
-* JavaScript
-* Bootstrap
-* Font Awesome
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- Font Awesome
 
-## Features
+## ✨ Features
 
-* Responsive design for all devices
-* Clean and modern UI
-* Project showcase with live demos and GitHub links
-* Skills section highlighting technologies
-* Smooth navigation between sections
-* Contact section with social links
+- Responsive design optimized for desktop, tablet, and mobile devices
+- Modern and user-friendly interface
+- Project showcase with live demos and GitHub repositories
+- Downloadable resume (CV)
+- Skills section featuring frontend and backend technologies
+- About Me section highlighting my experience and technical stack
+- Contact section with GitHub, LinkedIn, and email
+- Smooth navigation between sections
 
-## Projects Included
+## 💻 Projects Included
 
-* **SkillShare-Local** – Full-stack platform (PHP & MySQL)
-* **Bondi Landing Page** – Responsive UI using Bootstrap
-* **Weather App** – API-based weather application
-* **Drag & Drop App** – Interactive task manager
-* **Form Validation** – Custom JavaScript validation system
+- **Narrify – Cultural Storytelling Map** – Full-stack cultural storytelling platform built with React, FastAPI, SQLAlchemy, and an interactive map.
 
-## Contact
+- **SkillShare Local** – Full-stack skill-sharing platform developed with PHP and MySQL.
 
-* GitHub: https://github.com/hussainJamil24
-* LinkedIn: https://www.linkedin.com/in/hussain-jamil-68558238b/
-* Email: mailto:hussainjamil.sy@gmail.com
+- **Bondi Landing Page** – Responsive landing page built with Bootstrap.
+
+- **Weather App** – Weather application using a public API to display real-time weather information.
+
+- **Drag & Drop** – Interactive drag-and-drop interface built with JavaScript.
+
+## 📫 Contact
+
+- **GitHub:** https://github.com/hussainJamil24
+- **LinkedIn:** https://www.linkedin.com/in/hussain-jamil-68558238b/
+- **Email:** hussainjamil.sy@gmail.com
 
 ---
 
-Feel free to check out my projects and give feedback!
+Thank you for visiting my portfolio! Feel free to explore my projects, and don't hesitate to reach out if you'd like to connect or collaborate.
